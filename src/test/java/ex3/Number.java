@@ -25,6 +25,7 @@ public class Number {
                     break;
                 default:
                     break;
+
             }
         }
         return  result;
